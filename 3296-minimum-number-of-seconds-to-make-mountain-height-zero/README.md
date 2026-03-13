@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero">3296. Minimum Number of Seconds to Make Mountain Height Zero</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>mountainHeight</code> denoting the height of a mountain.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero">3496. Minimum Number of Seconds to Make Mountain Height Zero</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>mountainHeight</code> denoting the height of a mountain.</p>
 
 <p>You are also given an integer array <code>workerTimes</code> representing the work time of workers in <strong>seconds</strong>.</p>
 
