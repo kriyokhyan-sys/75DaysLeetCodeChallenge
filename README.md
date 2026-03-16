@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
