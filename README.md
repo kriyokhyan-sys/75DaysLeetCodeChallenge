@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -82,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
