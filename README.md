@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
