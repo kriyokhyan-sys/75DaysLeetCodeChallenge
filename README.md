@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
