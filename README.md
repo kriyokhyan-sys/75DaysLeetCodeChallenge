@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+| [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
