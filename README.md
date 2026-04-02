@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0739-daily-temperatures](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -173,9 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0739-daily-temperatures](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
