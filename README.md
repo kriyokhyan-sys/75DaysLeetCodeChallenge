@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
