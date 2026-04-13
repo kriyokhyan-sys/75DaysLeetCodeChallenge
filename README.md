@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0015-3sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
