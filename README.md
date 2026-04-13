@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
