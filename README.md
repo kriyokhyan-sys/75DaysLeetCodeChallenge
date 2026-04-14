@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2906-construct-product-matrix/) | Medium |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/kriyokhyan-sys/75DaysLeetCodeChallenge/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
